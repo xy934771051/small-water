@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "small-water-b06f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5c3c5c77-ed7f-4c72-a756-89e52c48507b",
+      "database_name": "small-water-b06f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
